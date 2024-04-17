@@ -1,0 +1,13 @@
+.text-warning{
+    background-color: brown;
+}
+
+
+
+
+.three{
+    display: flex;
+    height: 500px;
+    width: 400px;
+    background-color: rgb(0, 0, 0);
+}

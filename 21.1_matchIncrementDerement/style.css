@@ -1,0 +1,32 @@
+.all-match{
+    background-color: rgb(3, 124, 172);
+    padding: 30px;
+    border-radius: 10px;
+}
+.match {
+    border: 2px solid wheat;
+    padding: 10px;
+}
+.match h1 {
+   text-align: center;
+}
+.flex{
+    display: flex; 
+    gap: 10px;
+}
+
+@media screen and (max-width:576px){
+    .flex{
+      flex-direction: column; 
+     }
+    
+}
+.btn{
+    background-color: rgb(3, 124, 172);
+    color:white;
+    padding: 7px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 2px 4px 5px  gray;
+    
+}

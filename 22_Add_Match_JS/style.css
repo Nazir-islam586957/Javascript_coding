@@ -1,0 +1,32 @@
+#all-match{
+    background-color: chocolate;
+    padding: 30px;
+   
+}
+.match{
+    border: 2px solid wheat;
+    background-color:olive;
+    padding: 10px;
+ margin: 20px;
+}
+.flex{
+    display: flex; 
+    gap: 10px;
+     margin: 20px;
+}
+
+.btn {
+    background-color: rgb(3, 124, 172);
+    color: white;
+    padding: 7px;
+    border-radius: 10px;
+    margin-top: 5px;
+    box-shadow: 2px 4px 5px gray;
+
+}
+@media screen and (max-width:576px){
+    .flex{
+      flex-direction: column; 
+     }
+    
+}

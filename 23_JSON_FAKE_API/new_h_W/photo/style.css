@@ -1,0 +1,25 @@
+.card{
+    background-color: rgb(5, 11, 47);
+    color: #ffffff;
+    width: 50%;
+    text-align:center;
+    margin: auto;
+    border-radius: 20px;
+    
+    }
+
+.card h1{
+    color: rgb(225, 255, 0);
+    text-align: center;
+    padding: 20px;
+}
+
+.card h4{
+    text-align: center;
+    padding: 20px;
+}
+
+.card h5{
+    text-align: center;
+    padding: 20px;
+}
